@@ -1,0 +1,65 @@
+Hello Uzodimma,
+
+I hope this message finds you well. My name is Temple Ndukwu, and I am an experienced React developer with a strong background in integrating APIs and building engaging user interfaces. I came across your job posting seeking a developer to integrate an API endpoint into your existing React website, along with some UI additions, and I am confident that I am the perfect fit for this project.
+
+With three years of hands-on experience in React app development and a solid track record of successfully integrating APIs in Next.js applications, I possess the expertise required to seamlessly integrate your C#-based web API into your Next.js and Tailwind-based React project. My proficiency in consuming APIs and working with data will ensure the API integration is smooth and efficient.
+
+I understand the importance of delivering a seamless user experience, and I take great pride in crafting intuitive and visually appealing UIs. Your project's UI additions will be implemented with the utmost attention to detail, adhering to your design guidelines and ensuring a cohesive look and feel throughout the website.
+
+To further showcase my capabilities, here are some projects I have developed using React and Next.js:
+
+https://nkowaokwu.com/home - Dictionary App - Developed using React, TypeScript, and TailwindCSS.
+https://igboapi.com/ - Developed with Next.js, TypeScript, and TailwindCSS.
+https://editor.igboapi.com/ - Built with TailwindCSS and TypeScript.
+https://the-headlines.vercel.app/ - Utilizing Next.js 13.4 release.
+These projects demonstrate my ability to create performant and visually captivating applications using modern web technologies.
+
+As a highly motivated and detail-oriented developer, I take deadlines seriously and strive to deliver projects on time and within budget. I'm committed to clear and proactive communication throughout the development process, providing regular updates and addressing any concerns promptly.
+
+I am thrilled about the opportunity to work on this project and contribute my skills to its success. Let's discuss your requirements in more detail so that I can better understand the scope of work and provide an accurate estimate.
+
+Thank you for considering my proposal. I am looking forward to the possibility of collaborating with you on this project. Please feel free to reach out to me at your earliest convenience.
+
+Best regards,
+Temple Ndukwu
+
+
+
+How To Make Website Using HTML And CSS | Website Design With HTML And CSS
+
+git remote add origin https://github.com/temtechie/graphqlmernproject.git
+
+
+
+Dear KodersPedia,
+
+I hope this message finds you well. I recently came across your company KodersPedia on LinkedIn and was immediately captivated by your commitment to excellence in software development. As a talented MERN Stack developer with 3 years, I am thrilled to express my interest in joining your team at KodersPedia
+
+Throughout my career, I have successfully delivered robust and scalable applications using the MERN (MongoDB, Express.js, React.js, and Node.js) stack. My expertise extends across the full development lifecycle.
+
+Beyond technical expertise, I bring a collaborative and proactive approach to teamwork. I thrive in dynamic environments where I can contribute my skills while also learning and growing alongside talented individuals. I am confident that my skills would make me a valuable asset to your team.
+
+I would be honored to contribute my skills and passion in assisting your company achieve new heights. I am eagerly looking forward to the opportunity to discuss how my experience aligns with your company's goals and how I can contribute.
+
+I understand that my approach of application may be unconventional but I give my words you would not regret working with me.
+
+Although salary is not the sole determining factor for me, I am truly dedicated to finding the right opportunity to contribute my skills and expertise. I am willing to be flexible and consider an offer that aligns with your company budget.
+
+I understand that my approach of application may be unconventional but I give my words you would not regret working with me.
+
+you can take a look at few accessible Projects I have worked on:
+
+https://nkowaokwu.com/home
+https://igboapi.com/
+https://editor.igboapi.com/
+https://temple-ndukwu-portfolio-live.netlify.app/
+https://the-headlines.vercel.app/
+
+Thank you for your time, and I hope to have the privilege of working with you and the incredible team.
+
+Best regards,
+
+Temple Ndukwu
+
+
+64c22640fb327877da0d27fa

@@ -13,6 +13,8 @@ export default function Project() {
     if (loading) return <Spinner />;
     if (error) return <p>Something Went Wrong</p>;
 
+    console.log("data", data);
+
     return (
         <>
             {!loading && !error && (
