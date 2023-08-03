@@ -124,7 +124,7 @@ export default function AddProjectModal() {
                         <option value=''>Select Client</option>
                         {data.clients.map((client) => (
                           <option key={client.id} value={client.id}>
-                            {client.name}
+                            {client.name.charAt(0).toUpperCase() + client.name.slice(1).toLowerCase()}
                           </option>
                         ))}
                       </select>
